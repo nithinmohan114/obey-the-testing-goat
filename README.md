@@ -1,7 +1,7 @@
 # obey-the-testing-goat
 Test-Driven Development with Python
 
-# Hacktoberfest21
+# Hacktoberfest22
 
 Follow the steps
 * `git clone https://github.com/nithinmohan114/obey-the-testing-goat.git`
