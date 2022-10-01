@@ -48,3 +48,7 @@ class NewVisitorTest(unittest.TestCase):
         # enters "Use peacock feathers to make a fly" (Edith is very
         # methodical)
         self.fail('Finish the test!')
+        self.assertTrue(
+            any(row.text == '1: Buy peacock feathers' for row in rows),
+            f"New to-do item did not appear in table. Contents were:\n{table.text}"  
+            )       
