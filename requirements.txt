@@ -3,3 +3,4 @@ pytest-django
 model-mommy
 factory-boy
 django-silk==0.5.2
+ipython
