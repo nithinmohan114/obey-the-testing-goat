@@ -80,5 +80,4 @@
 1540537432487	Marionette	DEBUG	Resetting recommended pref security.notification_enable_delay
 1540537432487	Marionette	DEBUG	Resetting recommended pref signon.autofillForms
 1540537432487	Marionette	DEBUG	Resetting recommended pref signon.rememberSignons
-1540537432488	Marionette	INFO	Stopped listening on port 44121
-1540537432488	Marionette	DEBUG	Remote service is inactive
+
